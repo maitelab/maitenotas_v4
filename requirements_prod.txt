@@ -1,0 +1,5 @@
+# main UI library
+pyside2
+
+# encryption library
+cryptography
