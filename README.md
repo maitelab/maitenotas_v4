@@ -2,9 +2,10 @@
 
 ## Introduction
 
-Little journal software to help you safely store (with encryption) important and personal text notes made with python and QT
+Little journal software to help you safely store (with encryption) important and personal text notes made with python and QT (Pyside2). The text is automatically highlighted according to markdown syntax.
 
-## A screenshot (running in Windows, but can be compiled to run anywhere Python desktop software runs)
+## A screenshot 
+Screenshot running in Linux, but can be executed anywhere Python Pyside2 desktop software runs.
 ![screenshot](screenshot.png "Screenshot")
 
 ## License
